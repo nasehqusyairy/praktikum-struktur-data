@@ -31,31 +31,6 @@ public class DataArrayApp {
 
     // arr.displayArray();
 
-    // if (args.length > 0) {
-    // switch (args[0]) {
-    // case "sortByNIM":
-
-    // System.out.println("Urut Berdasarkan NIM");
-    // System.out.println("----------");
-    // arr.bubbleSort();
-    // arr.displayArray();
-
-    // break;
-    // case "sortByName":
-
-    // System.out.println("Urut Berdasarkan Nama");
-    // System.out.println("----------");
-    // arr.insertionSortByName();
-    // arr.displayArray();
-
-    // break;
-
-    // default:
-    // System.out.println(args[0]);
-    // break;
-    // }
-    // }
-
     // System.out.println("bubbleSort");
     // System.out.println("----------");
     // arr.bubbleSort();
